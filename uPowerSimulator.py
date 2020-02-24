@@ -11,6 +11,7 @@ Modified uPower Simulator Code.
 ->To be done:
 1)Add jump instructions.
 2)Test the existing code.
+3)line var to be changed to ir
 """
 line = ""
 
